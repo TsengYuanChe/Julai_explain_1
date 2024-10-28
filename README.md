@@ -1,5 +1,3 @@
-# Explaining Julia program
-
 # Monty Hall Problem Simulation
 
 此專案為一個用 Julia 撰寫的程式，模擬著名的 Monty Hall 問題，並比較「更換選擇」與「堅持原選擇」策略的勝率。
