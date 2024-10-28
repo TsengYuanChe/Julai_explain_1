@@ -27,4 +27,4 @@ println("Probability of winning if you stick with your initial choice: ", stick_
 println("Probability of winning if you switch: ", switch_win_rate)
 ```
 ## 完整程式碼
-請參閱完整程式碼：monty_hall.jl
+請參閱完整程式碼：[monty_hall.jl](./monty_hall.jl)
