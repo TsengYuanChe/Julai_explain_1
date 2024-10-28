@@ -25,4 +25,6 @@ switch_win_rate = run_simulation(num_trials, true)
 
 println("Probability of winning if you stick with your initial choice: ", stick_win_rate)
 println("Probability of winning if you switch: ", switch_win_rate)
-
+```
+## 完整程式碼
+請參閱完整程式碼：monty_hall.jl
